@@ -1,5 +1,5 @@
 # chatserver
-Users can interact to each other on server and they can share information to all others.
+An java application that allows users to interact with each other on server and share information to all others.
 
 #Software Requirement to run this project
 JRE
